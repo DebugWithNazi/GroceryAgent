@@ -55,7 +55,7 @@ Version 1.0 is the initial release of **GroceryAgent**, a web-based Grocery Stor
 
 ### **Commit Message Example**
 ```
-Initial release: GroceryGenie v1.0
+Initial release: GroceryAgent v1.0
 - Product CRUD (add, view, delete)
 - Order creation and listing
 - Integrated agent chat assistant for natural language commands
