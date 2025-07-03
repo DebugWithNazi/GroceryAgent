@@ -7,7 +7,7 @@ from products_dao import insert_new_product, delete_product, get_product_id_by_n
 from order_dao import insert_order, get_all_orders, delete_order
 from uom_dao import get_uoms
 
-client = Groq(api_key="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")
+client = Groq(api_key="") # Add your own groq key
 
 def call_groq_agent(prompt, connection):
     try:
